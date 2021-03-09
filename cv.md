@@ -1,4 +1,4 @@
-# Taysin Rinat
+# Taysin Rinat, CV
 
 ![Avatar](./avatar.jpg)
 
